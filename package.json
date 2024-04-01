@@ -1,0 +1,12 @@
+{
+  "name": "guess-number",
+  "version": "1.0.0",
+  "description": "",
+  "default": "guessnumber.html",
+  "scripts": {
+    "start": "parcel guessnumber.html",
+    "build": "parcel build guessnumber.html --dist-dir ./dist"
+  },
+  "author": "Sruthi Eerati",
+  "license": "ISC"
+}
